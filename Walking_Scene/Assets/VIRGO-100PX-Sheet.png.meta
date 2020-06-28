@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: cfbb2b7be33206a4d8ffa5ba51adb6f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9152418519553180737
+    second: VIRGO-100PX-Sheet_0
+  - first:
+      213: 5064168726016077461
+    second: VIRGO-100PX-Sheet_1
+  - first:
+      213: -7059248501371984714
+    second: VIRGO-100PX-Sheet_2
+  - first:
+      213: 8102386745658373595
+    second: VIRGO-100PX-Sheet_3
+  - first:
+      213: -740012787962342369
+    second: VIRGO-100PX-Sheet_4
+  - first:
+      213: -3710654790981043646
+    second: VIRGO-100PX-Sheet_5
+  - first:
+      213: -3565263006743943492
+    second: VIRGO-100PX-Sheet_6
+  - first:
+      213: 6351525269419876323
+    second: VIRGO-100PX-Sheet_7
+  - first:
+      213: -4784985330787362044
+    second: VIRGO-100PX-Sheet_8
+  - first:
+      213: 7674999227664176269
+    second: VIRGO-100PX-Sheet_9
+  - first:
+      213: -6086477542448838133
+    second: VIRGO-100PX-Sheet_10
+  - first:
+      213: -1853629227511359160
+    second: VIRGO-100PX-Sheet_11
+  - first:
+      213: -7969386287987618817
+    second: VIRGO-100PX-Sheet_12
+  - first:
+      213: 4221243598323908384
+    second: VIRGO-100PX-Sheet_13
+  - first:
+      213: -1146247154208765165
+    second: VIRGO-100PX-Sheet_14
+  - first:
+      213: -2548319042057569822
+    second: VIRGO-100PX-Sheet_15
+  - first:
+      213: -1172712794890857482
+    second: VIRGO-100PX-Sheet_16
+  - first:
+      213: -4562728728614147113
+    second: VIRGO-100PX-Sheet_17
+  - first:
+      213: 803365505585871790
+    second: VIRGO-100PX-Sheet_18
+  - first:
+      213: 6281500028992699217
+    second: VIRGO-100PX-Sheet_19
+  - first:
+      213: -4167825495602999292
+    second: VIRGO-100PX-Sheet_20
+  - first:
+      213: 223885646572684562
+    second: VIRGO-100PX-Sheet_21
+  - first:
+      213: -8988005537311380468
+    second: VIRGO-100PX-Sheet_22
+  - first:
+      213: -6250695846087360167
+    second: VIRGO-100PX-Sheet_23
+  - first:
+      213: 1635451691308799044
+    second: VIRGO-100PX-Sheet_24
+  - first:
+      213: 2518819540429527596
+    second: VIRGO-100PX-Sheet_25
+  - first:
+      213: 27188233130175757
+    second: VIRGO-100PX-Sheet_26
+  - first:
+      213: 2734610150994215361
+    second: VIRGO-100PX-Sheet_0
+  - first:
+      213: 4873251721466615009
+    second: VIRGO-100PX-Sheet_1
+  - first:
+      213: -2431247311958655621
+    second: VIRGO-100PX-Sheet_2
+  - first:
+      213: -4697554302837596372
+    second: VIRGO-100PX-Sheet_3
+  - first:
+      213: 5968820412376930781
+    second: VIRGO-100PX-Sheet_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VIRGO-100PX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c10039917943f520800000000000000
+      internalID: 2734610150994215361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIRGO-100PX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4141ffe9441a340800000000000000
+      internalID: 4873251721466615009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIRGO-100PX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db4997379724ed0800000000000000
+      internalID: -2431247311958655621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIRGO-100PX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd142104feeceb0800000000000000
+      internalID: -4697554302837596372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIRGO-100PX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d3d77a8285d250800000000000000
+      internalID: 5968820412376930781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
